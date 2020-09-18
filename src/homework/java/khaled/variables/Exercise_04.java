@@ -1,4 +1,4 @@
-package homework.java.khaled.variavles;
+package homework.java.khaled.variables;
 
 public class Exercise_04 {
     public static void main(String args[]){
