@@ -2,6 +2,8 @@ package homework.java.khaled.dicision.structure;
 
 public class Exercise_04 {
     public static void main(String args[]){
+
+        // FindLowestNumber with if else if else
         int num1 = 25, num2 = 77, num3 = 96, num4 = 125, num5 = 2;
 
         if ((num1 < num2) && (num1 < num3) && (num1 < num4) && (num1 < num5)) {

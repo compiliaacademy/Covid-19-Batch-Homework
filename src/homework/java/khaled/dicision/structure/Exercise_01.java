@@ -2,6 +2,8 @@ package homework.java.khaled.dicision.structure;
 
 public class Exercise_01 {
     public static void main(String[] args) {
+
+        // CheckOddEven with if else
         int n = 5;
         if ((n % 2) == 0)
         {

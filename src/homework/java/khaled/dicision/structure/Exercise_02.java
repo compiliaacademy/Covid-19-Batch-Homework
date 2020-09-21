@@ -2,6 +2,8 @@ package homework.java.khaled.dicision.structure;
 
 public class Exercise_02 {
     public static void main(String args[]) {
+
+        // PrintNumberInWord with if else if else
         int number = 5;
 
         if (number == 0) {
