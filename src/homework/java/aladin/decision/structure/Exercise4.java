@@ -2,7 +2,9 @@ package homework.java.aladin.decision.structure;
 
 public class Exercise4 {
     public static void main(String[] args) {
-        int num1 = 25, num2 = 77, num3 = 96, num4 = 125, num5 = 2;
+        int num1 = 525, num2 = 987, num3 = 196, num4 = 2125, num5 = 112;
+
+        //Find the Lowest Number using if else
         if ((num1 < num2) && (num1 < num3) && (num1 < num4) && (num1 < num5)) {
             System.out.println("The Lowest number is " + num1);
         }
