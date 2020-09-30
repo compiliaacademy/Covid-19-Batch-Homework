@@ -1,4 +1,4 @@
 package BookPractice.saleh.chapter3;
 
-public class Practice_1 {
+public class Problem_9 {
 }
