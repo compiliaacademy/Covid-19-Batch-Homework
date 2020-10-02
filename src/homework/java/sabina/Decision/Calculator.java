@@ -28,7 +28,7 @@ public class Calculator {
 
                  break;
              }
-             case 2 :
+             case 2 : {
                  System.out.println("Welcome to Division World!!");
 
                  System.out.println("Please Enter 1st number:");
@@ -42,36 +42,39 @@ public class Calculator {
                  System.out.println("The division result is:" + result);
 
                  break;
+             }
 
-             case 3 :
+             case 3 : {
                  System.out.println("Welcome to Multiplication World!!");
 
                  System.out.println("Please Enter 1st number:");
-                 int num3 = reader.nextInt();
+                 int num1 = reader.nextInt();
 
                  System.out.println("Please Enter 2nd number:");
-                 int num4 = reader.nextInt();
+                 int num2 = reader.nextInt();
 
-                 int result1 = num3 * num4;
+                 int result = num1 * num2;
 
-                 System.out.println("The Multiplication result is:" + result1);
+                 System.out.println("The Multiplication result is:" + result);
 
                  break;
+             }
 
-             case 4 :
+             case 4 : {
                  System.out.println("Welcome to subtraction World!!");
 
                  System.out.println("Please Enter 1st number:");
-                 int num5 = reader.nextInt();
+                 int num1 = reader.nextInt();
 
                  System.out.println("Please Enter 2nd number:");
-                 int num6 = reader.nextInt();
+                 int num2 = reader.nextInt();
 
-                 int result2 = num5 - num6;
+                 int result = num1 - num2;
 
-                 System.out.println("The subtraction result is:" + result2);
+                 System.out.println("The subtraction result is:" + result);
 
                  break;
+             }
 
              case 5 :
                  System.out.println("Thank You for using This App!!");
