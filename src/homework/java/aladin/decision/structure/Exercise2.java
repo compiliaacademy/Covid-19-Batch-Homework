@@ -3,7 +3,7 @@ package homework.java.aladin.decision.structure;
 public class Exercise2 {
     public static void main(String[] args) {
 
-        int num = 5;
+        int num = 6;
 
         if (num == 0) {
             System.out.println("ZERO");
@@ -11,15 +11,13 @@ public class Exercise2 {
         else if (num == 1) {
             System.out.println("ONE");
         }
-        else if (num == 2) ;
-        {
+        else if (num == 2) {
             System.out.println("TWO");
         }
         else if(num == 3){
             System.out.println("THREE");
         }
-        else if (num == 4)
-        {
+        else if (num == 4) {
             System.out.println("FOUR");
         }
         else if (num == 5) {
@@ -31,8 +29,7 @@ public class Exercise2 {
         else if (num == 7){
             System.out.println("SEVEN");
         }
-        else if (num==8)
-        {
+        else if (num==8) {
             System.out.println("EIGHT");
         }
         else if (num==9)
