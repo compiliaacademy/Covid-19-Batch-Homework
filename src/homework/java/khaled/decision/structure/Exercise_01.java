@@ -1,4 +1,4 @@
-package homework.java.khaled.dicision.structure;
+package homework.java.khaled.decision.structure;
 
 public class Exercise_01 {
     public static void main(String[] args) {

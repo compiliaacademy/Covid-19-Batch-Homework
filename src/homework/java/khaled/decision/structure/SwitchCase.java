@@ -8,6 +8,7 @@ public class SwitchCase {
         System.out.println("Please Enter a number between 0-5: ");
         int input = reader.nextInt();
 
+
         switch(input){
             case 0:
                 System.out.println("ZERO");
