@@ -1,6 +1,7 @@
 package homework.java.shamim.operators;
 
 public class Exercise_1_4 {
+
     public static void main(String[] args) {
 
         // 1. Name,Age and Annual Income

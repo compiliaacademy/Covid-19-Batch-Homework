@@ -1,6 +1,6 @@
-package homework.java.shamim.Decision;
+package homework.java.shamim.Decision_Structure;
 
-public class Homework {
+public class If_else_if_1_4 {
 
     public static void main(String[] args) {
 

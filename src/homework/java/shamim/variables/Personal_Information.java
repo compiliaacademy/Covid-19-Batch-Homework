@@ -1,6 +1,7 @@
 package homework.java.shamim.variables;
 
 public class Personal_Information {
+
     public static void main(String[] args) {
 
         String name;
