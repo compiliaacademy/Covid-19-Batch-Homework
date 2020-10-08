@@ -37,7 +37,7 @@ public class forloop {
                     System.out.println(1 + "*" + number + "=" + (1 * number));
                 }
 
-
+// reviewed by Khaled Hasan. 
 
     }
 }
