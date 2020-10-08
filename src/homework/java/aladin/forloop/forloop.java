@@ -1,14 +1,15 @@
 package homework.java.aladin.forloop;
 
+import java.util.Scanner;
 import java.sql.SQLOutput;
 
 public class forloop {
     public static void main(String[] args) {
+       System.out.println("I am a Soccer player");
         System.out.println("I am a Soccer player");
-         System.out.println("I am a Soccer player");
+      System.out.println("I am a Soccer player");
         System.out.println("I am a Soccer player");
-         System.out.println("I am a Soccer player");
-         System.out.println("I am a Soccer player");
+        System.out.println("I am a Soccer player");
 
         System.out.println("---------------------");
 
@@ -17,8 +18,7 @@ public class forloop {
              System.out.println("I love Bangladesh");
          }
 
-        System.out.println("---------------------");
-
+            System.out.println("---------------------");
         for(int table = 1; table<=12;table ++) {
             System.out.println(table);
         }
@@ -26,16 +26,15 @@ public class forloop {
         System.out.println("---------------------");
 
         // Multiplication table which is Namta.
-            for(int table = 1; table<=10;table ++) {
-                System.out.println(table + "*" + 1 + "=" + (table * 1));
+
+        Scanner reader = new Scanner (System.in);
+
+            for(int table = reader.nextInt(); table<=10;table ++) {
+                System.out.println(table + " X " + 1 + " = " + (table * 1));
             }
 
-        System.out.println("---------------------");
-            
-            // Multiplication again.
-
                 for(int number = 1; number<=10; number ++) {
-                    System.out.println(1 + "*" + number + "=" + (number));
+                    System.out.println(1 + "*" + number + "=" + (1 * number));
                 }
 
 
